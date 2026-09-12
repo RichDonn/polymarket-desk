@@ -1,11 +1,9 @@
 # POLY SWING DESK
 
-- **Snapshot (UTC):** 2026-09-12T02:31:42Z
-- **Cash:** $25.55 | **Equity:** $50.00 | **Open risk:** $24.45
-- **Kill:** OFF
-- **Open ids:** P001, P002, P003, P004, P005, P006, P007, P008
-- **Tickets remaining:** 8 (floor(cash/3))
-- **Local path:** `/workspace/polymarket-desk/polymarket-desk.html`
-- **Pages URL:** https://richdonn.github.io/polymarket-desk/
-- **Repo:** https://github.com/RichDonn/polymarket-desk
-- **Mode:** PAPER ONLY
+- Snapshot: 2026-09-12T02:50:20Z
+- Cash: $2.00 | Equity: $48.77 | Open risk: $48.00
+- Kill: OFF
+- Opens: P001, P002, P003, P004, P005, P006, P007, P008, P009, P010, P011, P012, P013, P014, P015, P016
+- Tickets left: 0
+- Pages: https://richdonn.github.io/polymarket-desk/
+- Mode: PAPER aggressive 60s
